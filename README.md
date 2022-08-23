@@ -22,6 +22,8 @@
 - [B站三英-异界时空](https://space.bilibili.com/1579754300)
 - [QQ中转群](https://jq.qq.com/?_wv=1027&k=AY6JMPjq)
 - [QQ二次元ACG｜异界时空频道](https://pd.qq.com/s/rd8mud)
+- [异界时空论坛](https://yjsk.sanyingpan.cn/)
+- [异界时空ACG](https://yjacg.sanyingpan.cn/)
 
 ---
 
