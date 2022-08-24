@@ -24,6 +24,7 @@
 - [QQ二次元ACG｜异界时空频道](https://pd.qq.com/s/rd8mud)
 - [异界时空论坛](https://yjsk.sanyingpan.cn/)
 - [异界时空ACG](https://yjacg.sanyingpan.cn/)
+- [留言板](https://chat.getloli.com/room/@异界时空)
 
 ---
 ## 网站当前访问次数统计
