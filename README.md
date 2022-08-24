@@ -31,5 +31,3 @@
 <img src="https://count.getloli.com/get/@55633?theme=moebooru" width="250px" height="105px"/>
 </div>
 
-<iframe src="https://chat.getloli.com/room/@异界时空" scrolling="no" frameborder="0" height="70%" width="26%" style="position: fixed;top: 98%;right: 50%;">
-</iframe>
