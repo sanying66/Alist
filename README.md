@@ -1,9 +1,10 @@
 <div align="center">
-  <a><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="500px"/></a>
+  <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="500px"/></a>
 </div>
   
 ```diff
 + 无偿分享，随缘打赏 ( 感谢各位老板！)
+(长按图片可保存到手机本地)
 ```
 ---
 ## 异界时空百宝库简介
