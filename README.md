@@ -26,7 +26,7 @@
 - [异界时空ACG](https://yjacg.sanyingpan.cn/)
 
 ---
-##网站当前访问次数统计
+## 网站当前访问次数统计
 <div align="center">
 <img src="https://count.getloli.com/get/@55633?theme=moebooru" width="250px" height="105px"/>
 </div>
