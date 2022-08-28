@@ -1,13 +1,3 @@
-<div align="center">
-  <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="500px"/></a>
-</div>
-  
-```diff
-+ 无偿分享，随缘打赏 ( 感谢各位老板！)
-(赞助后请留言昵称等信息)
-(长按图片可保存到手机本地)
-```
-
 ---
 ## 异界时空百宝库使用指南
 ```diff
@@ -41,6 +31,16 @@
 - [异界时空论坛](https://yjsk.sanyingpan.cn/)
 - [异界时空ACG](https://yjacg.sanyingpan.cn/)
 - [留言板](https://chat.getloli.com/room/@异界时空)
+
+<div align="center">
+  <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="500px"/></a>
+</div>
+  
+```diff
++ 无偿分享，随缘打赏 ( 感谢各位老板！)
+(赞助后请留言昵称等信息)
+(长按图片可保存到手机本地)
+```
 
 ---
 ## 网站当前访问次数统计
