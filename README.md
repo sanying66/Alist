@@ -35,7 +35,9 @@
 <div align="center">
   <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="500px"/></a>
 </div>
+
 - [感谢老板打赏！](https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg)
+
 ```diff
 + 无偿分享，随缘打赏 ( 感谢各位老板！)
 (赞助后请留言昵称等信息)
