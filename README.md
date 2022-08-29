@@ -6,7 +6,7 @@
 <img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="200px"/>
 
 * 1、《OneDrive》网盘主要存储各种Gal游戏；  
-2、《在线影院》网盘主要存储各种番剧和漫画且支持在线观看；
+2、《在线影院》网盘主要存储各种福利番剧、漫画和软件且支持在线观看；
 * 资源全部免费，但是最好给up主B站视频点赞关注一波[B站三英-异界时空](https://space.bilibili.com/1579754300)！答应我，这次一定！♥
 * 网盘密码请加群或者频道获取↓↓↓
 * 群号和频道链接均在下面↓↓↓
