@@ -3,7 +3,7 @@
 + 微信公众号：异界时空次元社，关注领取限时资源
 ```
 
-<img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="400px"/>
+<img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="200px"/>
 
 * 1、《OneDrive》网盘主要存储各种Gal游戏；  
 2、《在线影院》网盘主要存储各种番剧和漫画且支持在线观看；
@@ -26,7 +26,7 @@
 </div>
 
 - [点我赞助感谢老板打赏！(支持微信、支付宝、QQ)](https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg)
-- [爱发电主页赞助！](https://afdian.net/@sanying)
+- [爱发电主页赞助！(支持每月自动赞助)](https://afdian.net/@sanying)
 
 ```diff
 + 无偿分享，随缘打赏 ( 感谢各位老板！)
