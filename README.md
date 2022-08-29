@@ -25,6 +25,7 @@
   <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="300px"/></a>
 </div>
 
+- [支付宝领红包免费赞助本站-推荐！](https://yjacg.sanyingpan.cn/index.php/2022/08/29/%e6%8d%90%e8%b5%a0%e6%9c%ac%e7%ab%99%e6%96%b0%e5%a7%bf%e6%80%81/)
 - [点我赞助感谢老板打赏！(支持微信、支付宝、QQ)](https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg)
 - [爱发电主页赞助！(支持每月自动赞助)](https://afdian.net/@sanying)
 
