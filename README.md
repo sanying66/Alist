@@ -3,7 +3,7 @@
 + 微信公众号：异界时空次元社，关注领取限时资源
 ```
 
-<img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="100px"/>
+<img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="200px"/>
 
 * 1、《OneDrive》网盘主要存储各种Gal游戏；  
 2、《在线影院》网盘主要存储各种番剧和漫画且支持在线观看；
