@@ -3,7 +3,7 @@
 + 微信公众号：异界时空次元社，关注领取限时资源
 ```
 
-<img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="200px"/>
+<img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="100px"/>
 
 * 1、《OneDrive》网盘主要存储各种Gal游戏；  
 2、《在线影院》网盘主要存储各种番剧和漫画且支持在线观看；
@@ -22,7 +22,7 @@
 * 随着使用人数的增多，服务器的负担也逐渐增大，按照现在网站使用人数，**每人每月赞助2个币**即可保证整个异界服务器正常运行，每个月2个币对每个人来说基本上不算什么，但是对于三英来说真的**非常重要**，因为这决定着网盘以后是否可以继续正常运行下去！**但请大家放心，资源永久免费**即使有一天服务器欠费垮台了，也可以在你们心中留下一段感人的事迹！
 * 在这里三英要着重**感谢各位赞助异界时空的老板们!**
 <div align="center">
-  <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="400px"/></a>
+  <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="300px"/></a>
 </div>
 
 - [点我赞助感谢老板打赏！(支持微信、支付宝、QQ)](https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg)
