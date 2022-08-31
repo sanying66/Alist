@@ -1,6 +1,7 @@
 ## 异界时空百宝库使用指南
 ```diff
-+ 微信公众号：异界时空次元社，关注领取限时资源
++ 密码已更新——08.31
++ 微信公众号：【异界时空次元社】关注获取最新密码
 ```
 
 <img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/公众号二维码.jpg" width="200px"/>
@@ -8,8 +9,6 @@
 * 1、《OneDrive》网盘主要存储各种Gal游戏；  
 2、《在线影院》网盘主要存储各种福利番剧、漫画和软件且支持在线观看；
 * 资源全部免费，但是最好给up主B站视频点赞关注一波[B站三英-异界时空](https://space.bilibili.com/1579754300)！答应我，这次一定！♥
-* 网盘密码请加群或者频道获取↓↓↓
-* 群号和频道链接均在下面↓↓↓
 - [QQ中转群:581735535](https://jq.qq.com/?_wv=1027&k=AY6JMPjq)
 - [QQ二次元ACG｜异界时空频道](https://pd.qq.com/s/gcupq1)
 
@@ -25,7 +24,7 @@
   <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="300px"/></a>
 </div>
 
-- [支付宝领红包免费赞助本站-推荐！](https://yjacg.sanyingpan.cn/index.php/2022/08/29/%e6%8d%90%e8%b5%a0%e6%9c%ac%e7%ab%99%e6%96%b0%e5%a7%bf%e6%80%81/)
+- [点我不花一分钱赞助本站！](https://yjacg.sanyingpan.cn/index.php/2022/08/29/%e6%8d%90%e8%b5%a0%e6%9c%ac%e7%ab%99%e6%96%b0%e5%a7%bf%e6%80%81/)
 - [点我赞助感谢老板打赏！(支持微信、支付宝、QQ)](https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg)
 - [爱发电主页赞助！(支持每月自动赞助)](https://afdian.net/@sanying)
 
@@ -39,7 +38,7 @@
 ## 异界时空平台
 - [B站三英-异界时空](https://space.bilibili.com/1579754300)
 - [QQ中转群一共6个群](https://jq.qq.com/?_wv=1027&k=AY6JMPjq)
-- [QQ二次元ACG｜异界时空频道](https://pd.qq.com/s/rd8mud)
+- [QQ二次元ACG｜异界时空频道](https://pd.qq.com/s/gcupq1)
 - [异界时空论坛](https://yjsk.sanyingpan.cn/)
 - [异界时空ACG](https://yjacg.sanyingpan.cn/)
 
