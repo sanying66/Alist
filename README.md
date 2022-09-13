@@ -42,6 +42,10 @@
 - [异界时空论坛](https://yjsk.sanyingpan.cn/)
 - [异界时空ACG](https://yjacg.sanyingpan.cn/)
 
+<div align="center">
+  <a href="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg"><img height="10px" alt="logo" src="https://yjacg.sanyingpan.cn/wp-content/uploads/retouch_1.jpg" width="300px"/></a>
+</div>
+
 ---
 ## 网站当前访问次数统计
 <div align="center">
